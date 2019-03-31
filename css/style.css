@@ -1,0 +1,663 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	min-width: 1000px;
+	font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#dingbu
+{
+	width:100% ;
+	position: fixed;
+	top: 0px;
+	z-index: 100;
+}
+#guangguao
+{
+	height: 40px;
+	background-color:#444444;
+}
+#gg
+{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+#gg span
+{
+	float: right;
+	line-height: 40px;
+	font-size:12px ;
+	color: #a8a8aa;
+}
+#daohanglan
+{
+	height: 44px;
+	background-color:#313131 ;
+}
+#dhz
+{
+	width: 1000px;
+	height: 44px;
+	margin: 0 auto;
+}
+#logo
+{
+	width: 16px;
+	height: 44px;
+	margin: 0;
+	float: left;
+
+	
+}
+#Mac
+{
+	width: 26px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	
+
+}
+#ipad
+	{
+	width: 26px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left:65px ;
+
+
+	
+	}
+#iphone
+	{
+	width: 44px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	}
+#watch
+	{
+	width: 40px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	}
+#music
+	{
+	width: 37px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	}
+#support               
+	{
+	width: 46px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	}
+	
+
+#sousuo
+	{
+	width: 16px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+	}
+
+#woer
+{
+	width: 14px;
+	height: 44px;
+	padding-right:10px ;
+	padding-left:10px ;
+	margin-left: 65px;
+}
+#huanggou
+{
+	margin-top:84px ;
+	text-align: center;
+	height: 245px;
+	width: 100%;
+	background-color:#fafafa ;
+	padding-top:51px ;
+}
+#span1
+{
+	font-size:28px ;
+	line-height: 1.125;
+}
+#span3
+{
+	font-size:19px ;
+	line-height: 1.381;
+	margin-top:5px ;
+}
+#huanggou a
+{
+	
+	font-size:21px ;
+	color: #0070c9;	
+	line-height: 1.381;
+	position: relative;
+	top: 10px;
+	
+}
+#span2
+{
+	font-size:19px ;
+	line-height: 1.381;
+	margin-top:10px 
+}
+#iphone-xr
+{
+	margin-top:10px ;
+	width: 100%;
+	height: 580px;
+	background-image: url(../img/iphone_xr__bigt.jpg);
+	background-repeat:no-repeat ;
+	background-position: center bottom;
+	text-align: center;
+	background-color:#fafafa ;
+}
+#iphone-xrtupian
+{
+	padding-top:51px ;
+}
+#iphone-xrweizi
+{
+	margin-top:10px ;
+	line-height: 1.381;
+	font-size: 21px ;
+}
+#iphone-xrweizi-p2
+{
+	display:block;
+	padding-top:5px ;
+}
+#iphone-xrliaojie
+{
+	display: inline-block;
+	font-size: 21px ;
+
+}
+#iphone-xr-zhongjian
+{
+	display: inline-block;
+	width: 30px;
+}
+#iphone-xr-zhongjian1
+{
+	width: auto;
+	height: 15px;
+}
+
+#iphone-xs
+{
+	width: 100%;
+	height: 580px;
+	margin-top:10px ;
+	background-image: url(../img/iphone_xs__bigtu.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	text-align: center;
+	background-color:#fafafa ;
+	font-size: 21px;
+}
+#iphone-xs-logo
+{
+	padding-top: 51px;
+}
+#iphone-xs-zhongjian
+{
+	width: auto;
+	height: 15px;
+}
+.iphone-xswenz-pp
+{
+	margin: 5px;
+}
+#p1
+{
+	margin-top:10px ;
+}
+#iphone-xsliaojie-zhongjian
+{
+	display: inline-block;
+	width: 30px;
+}
+#ipadair
+{
+	width: 100%;
+	height: 580px;
+	margin-top:10px ;
+	background-image: url(../img/ipad_air_bigtu.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	text-align: center;
+	background-color:#fafafa ;
+	font-size: 21px;
+}
+#ipadair-wezih2
+{
+	padding-top: 51px;
+	font-size: 44px;
+	line-height: 1.382;
+}
+.ipadair-wezi-zhongjian
+{
+	width: auto;
+	height: 15px;
+}
+.ipadair-wezis1-zhongjian
+{
+	display: inline-block;
+	width: 30px;
+}
+#huodong-mini
+{
+	width: 100%;
+	height: 580px;
+	margin-top:10px ;
+	font-size: 21px;
+}
+#huodong
+{
+	width: 49.8%;
+	height:580px ;
+	float: left;
+	text-align: center;
+	background-image: url(../img/march_event_2019__fyoxvr9eucuq_medium.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+}
+#mini
+{
+	width: 49.8%;
+	height:580px ;
+	float: right;
+	text-align: center;
+	background-image: url(../img/ipad_mini_tile__.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+#huodongkongde
+{
+	width: 100%;
+	height:430px ;	
+}
+#huodong-wenzi h4
+{
+	color: #ffffff;
+	font-size: 32px;
+}
+#huodong-wenzi h5
+{
+	color: #ffffff;
+	font-size: 19px;
+	margin-top: 11px;
+}
+#huodong-wenzi a
+{
+	font-size: 17px;
+}
+#huodong-wenzi-kongde
+{
+	height: 13px;
+	width: 100%;
+}
+#mini h4
+{
+	margin-top: 42px;
+	font-size: 32px;
+}
+#mini p
+{
+	margin:3px;
+	font-size:19px;
+	font-style:normal ;
+}
+#mini-a1
+{
+	font-size:17px;
+	position: relative;
+	left: -10px;
+	top: 10px;
+}
+#mini-a2
+{
+	font-size:17px;	
+	position: relative;
+	top: 10px;
+}
+#watch-imac
+{
+	width: 100%;
+	height: 580px;
+	margin-top:10px ;
+	
+}
+#watchbk
+{
+	width: 49.8%;
+	height:580px ;
+	float: left;
+	text-align: center;
+	background-image: url(../img/watch-bigtu_4.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color:#FAFAFA ;
+}
+#imac
+{
+	width: 49.8%;
+	height:580px ;
+	float: right;
+	text-align: center;
+	background-image: url(../img/imac__bigtu.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color:#FAFAFA ;
+}
+#watchbk-logo
+{
+	margin-top:47px ;
+}
+#watchbk-wenzi
+{
+	width: 100%;
+	height: 580px;	
+	text-align: center;
+}
+#watchbk-wenzi h5
+{
+	font-size: 19px;
+	margin-top: 3px;
+}
+#watchbk-wenzi-kongde1
+{
+	width: 100%;
+	height: 10px;	
+}
+#watchbk-wenzi-kongde2
+{
+	display: inline-block;
+	width: 13px;
+}
+#imac h4
+{
+	font-size: 32px;
+	margin-top: 47px;
+}
+#imac h5
+{
+	font-size: 19px;
+	margin-top: 3px;
+	
+}
+#imac-kongde1
+{
+	width: auto;
+	height: 10px;
+}
+#imac-kongde2
+{
+	width: 10px;
+	height: auto;
+	display: inline-block;	
+}
+#AirPods-music
+{
+	width: 100%;
+	height: 580px;
+	margin-top:10px ;
+	
+}
+#AirPods
+{
+	width: 49.8%;
+	height:580px ;
+	float: left;
+	text-align: center;
+	background-image: url(../img/airpods_magic.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color:#FAFAFA ;  
+}
+#musicbk
+{
+	width: 49.8%;
+	height:580px ;
+	float: right;
+	text-align: center;
+	background-image:url(../img/apple_music.jpg) ;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color:#FAFAFA ;
+	background-size: 100% 100%;
+	color: #fff;
+} 
+#AirPods h4
+{
+	font-size: 32px;
+	line-height: 1.125;
+	margin-top:47px;
+}
+#AirPods h5
+{
+	font-size: 19px;
+	line-height: 1.21053;
+	margin-top:5px;	
+}
+#AirPods-kongde1
+{
+	width: auto;
+	height: 10px;
+}
+#AirPods-kongde2
+{
+	display: inline-block;
+	width: 10px;
+	height: auto;
+}
+#musicbk-logo
+{
+	margin-top: 50px;
+}
+#musicbk h5
+{
+	margin-top:3px;
+	font-size:19px ;
+	line-break:1.125 ;
+}
+#musicbk-kongde1
+{
+	width: auto;
+	height: 10px;
+}
+#musicbk-kongde2
+{
+	display: inline-block;
+	width: 10px;
+	height: auto;
+}
+#musicbk-music-logo
+{
+	margin-top: 350px;
+}
+#zhujiao
+{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f2f2f2;
+	margin-top:10px ;
+	font-size: 12px;
+
+	padding-top: 11px;
+	
+}
+#zhujiaos
+{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	padding-bottom: 17px;
+	border-bottom: 1px solid #d6d6d6;
+}
+#zhujiaos1,#zhujiaos2
+{
+	display: inline-block;
+	margin-bottom:10px ;
+	color: #888;
+}
+#qita
+{
+	width: 100%;
+	height:330px ;
+	margin: 0 auto;
+	background-color: #f2f2f2;
+	font-size: 12px;
+
+}
+#qitaa
+{
+	width: 1000px;
+	height:330px ;
+	padding-top: 20px;
+	margin: auto;
+}
+.qitaaaa
+{
+	width: 180px;
+	height: 310px;
+	box-sizing: border-box;
+	float: left;
+}
+.qitaaaa-p
+{
+	margin-bottom: 10px;
+	color: #555;
+	font-size: 12px;
+}
+.qita-kongde
+{
+	width: auto;
+	height: 20px;
+}
+#gdfs
+{
+	width:100% ;
+	height: 120px;
+	background-color: #f2f2f2;
+}
+#geiduofans
+{
+	width:1000px ;
+	height: 120px;
+	margin: auto;
+	padding-top:34px ;
+}
+.geiduofans-sp
+{
+	
+	font-size: 12px;
+}
+#geiduofans-hh
+{
+	padding-bottom:8px ;
+	border-bottom:1px solid #d6d6d6 ;
+}
+#geiduofans-ss
+{
+	font-size: 12px;
+}
+#geiduofans-ss div
+{
+	display: inline-block;
+	width: 20px;
+}
+#geiduofans-ss a
+{
+	margin-right:7px ;
+	padding-right: 7px;
+	border-right:1px solid #d6d6d6 ;
+}
+#beian
+{
+	font-size: 12px;
+	margin-top:8px ;
+}
+#qita a
+{
+	text-decoration:none ;
+}
+#qita a:hover
+{
+	text-decoration:underline;
+}
+#geiduofans-hh a
+{
+	color: #0070c9;
+	text-decoration: none;
+}
+#geiduofans-hh a:hover
+{
+	text-decoration: underline;
+}
+.geiduofans-ss-a
+{
+	color: #555;
+	text-decoration: none;
+}
+.geiduofans-ss-a:hover
+{
+	text-decoration: underline;
+}
+#beian a
+{
+	color: #555;
+	text-decoration: none;	
+}
+#beian a:hover
+{
+	text-decoration: underline;
+}
+.liaojieyugoumai
+{
+	color: #0070c9;
+	text-decoration: none;
+}
+.liaojieyugoumai:hover
+{
+	text-decoration: underline;
+}
+#musicbk a
+{
+	color: #fff;
+	text-decoration: none;
+}
+#musicbk a:hover
+{
+	text-decoration:underline;
+}
+#geiduofans-ss span
+{
+	color: #888;
+}
+#beian p
+{
+	color: #666;
+}
