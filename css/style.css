@@ -44,6 +44,10 @@ body
 	height: 44px;
 	margin: 0 auto;
 }
+#dhz a:hover
+{
+	opacity: 0.6;
+}
 #logo
 {
 	width: 16px;
